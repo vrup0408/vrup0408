@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **vrup0408/Vrup0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+<h1 align="center">Hi there, I am Vrushang Parikh 👋</h1>
+<br>- 🌱 I’m currently learning and exploring the <strong>Machine Learning & It's Applications</strong> field.
+<br>- 👯 I’m looking to collaborate on Live Project of some great-great Companies.
+<br>- 💬 Ask me about <strong>Android Development, Flutter Development and about Machine Learning</strong>.
+<br>- 📫 How to reach me: <a href="" target="_blank">Vrushang Parikh</a>
