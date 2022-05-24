@@ -16,6 +16,7 @@
 - ⚡ Fun fact is that **I think I am funny.**
 
 <hr>
+<h3 align="left">Watch my contribution graph get eaten by the snake:</h3>
 ![snake gif](https://github.com/vrup0408/vrup0408/blob/output/github-contribution-grid-snake.gif)
 
 <hr>
@@ -51,7 +52,8 @@
 
  <p align="center"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrup0408&count_private=true&theme=radical&layout=compact" alt="vrup0408" /></p>
  
- <p align="center"> 
+<hr> 
+<p align="center"> 
 <div align="center">
   <h4>🏆 Github Profile Trophies</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
