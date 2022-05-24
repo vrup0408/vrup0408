@@ -17,7 +17,8 @@
 
 <hr>
 <h3 align="left">Watch my contribution graph get eaten by the snake:</h3>
-![snake gif](https://github.com/vrup0408/vrup0408/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/vrup0408/vrup0408/blob/output/github-contribution-grid-snake.gif) -->
+<img src="https://github.com/vrup0408/Vrup0408/blob/output/github-contribution-grid-snake.gif">
 
 <hr>
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
