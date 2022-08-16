@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning and exploring **the Machine Learning field & It's Applications.**
+- 🌱 I’m currently learning and exploring **the Machine Learning, Internet of Things, Deep Learning & Artificial  Intelligence.**
 
 - 👯 I’m looking to collaborate on **Live Project of some great-great Companies.**
 
