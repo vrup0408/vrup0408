@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning and exploring **the Cloud Computing, Internet of Things, Machine Learning & Internet of Things.**
+- 🌱 I’m currently learning and exploring **the Cloud Computing, Data Analytics, Machine Learning & Internet of Things.**
 
 - 👯 I’m looking to collaborate on **Live Project of some great-great Companies.**
 
