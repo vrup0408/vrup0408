@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrushang Parikh</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">Passionate about Cloud Technology & Data Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrup0408&label=Profile%20views&color=0e75b6&style=flat" alt="vrup0408" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning and exploring **the Cloud Computing, Data Analytics, Machine Learning & Internet of Things.**
 
-- 👯 I’m looking to collaborate on **Live Project of some great-great Companies.**
+- 👯 I’m looking to collaborate on **Live Project of some great Companies.**
 
 - 💬 Ask me about **Cloud Computing** and about **Data Analytics.**
 
