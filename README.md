@@ -1,38 +1,37 @@
 <h1 align="center">Hi 👋, I'm Vrushang Parikh</h1>
 <h3 align="center">Passionate about Cloud Technology & Data Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrup0408&label=Profile%20views&color=0e75b6&style=flat" alt="vrup0408" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vrup0408&label=Profile%20views&color=0e75b6&style=flat" alt="vrup0408" /> </p>
 
 
+<p align="center">🌱 I’m currently learning and exploring the **Cloud Computing, Data Analytics, Machine Learning & Internet of Things.** </p>
 
-- 🌱 I’m currently learning and exploring the **Cloud Computing, Data Analytics, Machine Learning & Internet of Things.**
+<p align="center">👯 I’m looking to collaborate on **Live Project of some great Companies.** </p>
 
-- 👯 I’m looking to collaborate on **Live Project of some great Companies.**
+<p align="center">💬 Ask me about **Cloud Computing** and about **Data Analytics.** </p>
 
-- 💬 Ask me about **Cloud Computing** and about **Data Analytics.**
+<p align="center">📫 How to reach me **vrushangparikh04@gmail.com** </p>
 
-- 📫 How to reach me **vrushangparikh04@gmail.com**
+<p align="center">⚡ Fun fact is that **I think I am funny.**</p>
 
-- ⚡ Fun fact is that **I think I am funny.**
 
 <hr>
-<h3 align="left">Watch my contribution graph get eaten by the snake:</h3>
+<h3 align="center">🐍 Watch my contribution graph get eaten by Snake 🐍</h3>
 <!-- ![snake gif](https://github.com/vrup0408/vrup0408/blob/output/github-contribution-grid-snake.gif) -->
 <!-- <img src="https://github.com/vrup0408/Vrup0408/blob/output/github-contribution-grid-snake.gif"> -->
 ![snake gif](https://github.com/vrup0408/vrup0408/blob/output/github-contribution-grid-snake.gif)
 
 <hr>
 
-<h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"></h3>
-<p align="left">
-<a href="https://twitter.com/vrushangparikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vrushangparikh" height="30" width="40" /></a>
+<h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px"></h3>
+<p align="center">
 <a href="https://linkedin.com/in/vrushang-parikh-5798081b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrushang-parikh-5798081b8" height="30" width="40" /></a>
 <a href="https://fb.com/vrushang.parikh.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vrushang.parikh.5" height="30" width="40" /></a>
 <a href="https://instagram.com/vrushang0408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrushang0408" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCkGwias-PLHZEAyLfE86UmA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckgwias-plhzeaylfe86uma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vrushang_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vrushang_123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vrushang_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vrushang_123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vrushang_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vrushang_123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vrushang_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vrushang_123" height="30" width="40" /></a>
 </p>
 
 <hr>
@@ -55,7 +54,7 @@
     <th>Apache Kafka</th>
   </tr>
  
-  <tr>
+  <tr align="center">
     <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
     <td><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a></td>
     <td><a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
@@ -77,7 +76,7 @@
     <th>Docker</th>
     <th>Kubernetes</th>
   </tr>
- <tr>
+ <tr align="center">
     <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
     <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
     <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
