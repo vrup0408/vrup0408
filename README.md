@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/vrushang-parikh-5798081b8" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vrushang-parikh-5798081b8"/></a>
 <a href="https://fb.com/vrushang.parikh.5" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="vrushang.parikh.5"/></a>
 <a href="https://instagram.com/vrushang0408" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vrushang0408"/></a>
-<a href="https://www.youtube.com/channel/UCkGwias-PLHZEAyLfE86UmA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="uckgwias-plhzeaylfe86uma"/></a>
+<a href="https://www.youtube.com/channel/UCkGwias-PLHZEAyLfE86UmA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="uckgwias-plhzeaylfe86uma"/></a><br><br>
 <a href="https://www.codechef.com/users/vrushang_123" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="vrushang_123"/></a>
 <a href="https://www.leetcode.com/vrushang_123" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="vrushang_123"/></a>
 <a href="https://www.hackerrank.com/vrushang_123" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="vrushang_123"/></a>
@@ -111,7 +111,7 @@
 <div align="center">
   <h3>🏆 Github Profile Trophies 🏆</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=vrup0408&theme=monokai&row=1&no-frame=true&no-bg=true/">
+   <img src="https://github-profile-trophy.vercel.app/?username=vrup0408&theme=catppuccin_latte&row=1&no-frame=true&no-bg=true/">
   </a>
 </div><hr>
 
