@@ -21,8 +21,8 @@
 <!-- <img src="https://github.com/vrup0408/Vrup0408/blob/output/github-contribution-grid-snake.gif"> -->
 ![snake gif](https://github.com/vrup0408/vrup0408/blob/output/github-contribution-grid-snake.gif)
 
-
 <hr>
+
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"></h3>
 <p align="left">
 <a href="https://twitter.com/vrushangparikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vrushangparikh" height="30" width="40" /></a>
@@ -36,10 +36,11 @@
 </p>
 
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools & Technologies:</h3>
 <!-- git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
+<!-- snowflake -->
+<a href="https://snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a>
 <!-- c -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <!-- c++ -->
