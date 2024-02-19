@@ -4,15 +4,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vrup0408&label=Profile%20views&color=0e75b6&style=flat" alt="vrup0408" /> </p>
 
 
-<p align="center">🌱 I’m currently learning and exploring the **Cloud Computing, Data Analytics, Machine Learning & Internet of Things.** </p>
+<p align="center">🌱 I’m currently learning and exploring the <b>Cloud Computing</b>, <b>Data Analytics</b>, <b>Machine Learning</b> & <b>Internet of Things.</b> </p>
 
-<p align="center">👯 I’m looking to collaborate on **Live Project of some great Companies.** </p>
+<p align="center">👯 I’m looking to collaborate on <b>Live Project of some great Companies.</b> </p>
 
-<p align="center">💬 Ask me about **Cloud Computing** and about **Data Analytics.** </p>
+<p align="center">💬 Ask me about <b>Cloud Computing</b> and about <b>Data Analytics.</b> </p>
 
-<p align="center">📫 How to reach me **vrushangparikh04@gmail.com** </p>
+<p align="center">📫 How to reach me <b>vrushangparikh04@gmail.com</b> </p>
 
-<p align="center">⚡ Fun fact is that **I think I am funny.**</p>
+<p align="center">⚡ Fun fact is that <b>I think I am funny.</b> </p>
 
 
 <hr>
