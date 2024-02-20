@@ -111,7 +111,7 @@
 <div align="center">
   <h3>🏆 Github Profile Trophies 🏆</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=vrup0408&theme=catppuccin_latte&row=1&no-frame=true&no-bg=true/">
+   <img src="https://github-profile-trophy.vercel.app/?username=vrup0408&theme=catppuccin_latte&row=1&no-frame=true/">
   </a>
 </div><hr>
 
