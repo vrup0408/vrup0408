@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vrushang Parikh</h1>
-<h3 align="center">Passionate about Cloud Technology & Data Engineering</h3>
+<h3 align="center"><i>Jr. Data Engineer</i></h3>
 <!-- <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;"> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vrup0408&label=Profile%20views&color=0e75b6&style=flat" alt="vrup0408" /> </p>
 
 
-<p align="center">🌱 I’m currently learning and exploring the <b>Cloud Computing</b>, <b>Data Analytics</b>, <b>Machine Learning</b> & <b>Internet of Things.</b> </p>
+<p align="center">🌱 I’m currently learning and exploring the <b>Cloud</b> & <b>Data Engineering</b> Technologies. </p>
 
-<p align="center">👯 I’m looking to collaborate on <b>Live Project of some great Companies.</b> </p>
+<p align="center">👯 I’m looking to collaborate on <b>Live Project of some great companies.</b> </p>
 
-<p align="center">💬 Ask me about <b>Cloud Computing</b> and about <b>Data Analytics.</b> </p>
+<p align="center">💬 Ask me about <b>Cloud Technology</b> and about <b>Data Engineering.</b> </p>
 
 <p align="center">📫 How to reach me <b>vrushangparikh04@gmail.com</b> </p>
 
@@ -16,23 +16,11 @@
 
 
 <img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/>
-<p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img style="opacity: 0.1;" src="https://github-readme-activity-graph.vercel.app/graph?username=vrup0408&theme=react-dark&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- ![snake gif](https://github.com/vrup0408/vrup0408/blob/output/github-contribution-grid-snake.gif) -->
-<!-- <img src="https://github.com/vrup0408/Vrup0408/blob/output/github-contribution-grid-snake.gif"> -->
-<!-- ![snake gif](https://github.com/vrup0408/vrup0408/blob/output/github-contribution-grid-snake.gif) -->
 
-<img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/>
 
 <h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px"></h3>
 <p align="center">
 <a href="https://linkedin.com/in/vrushang-parikh-5798081b8" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vrushang-parikh-5798081b8"/></a>
-<a href="https://fb.com/vrushang.parikh.5" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="vrushang.parikh.5"/></a>
-<a href="https://instagram.com/vrushang0408" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vrushang0408"/></a>
-<a href="https://www.youtube.com/channel/UCkGwias-PLHZEAyLfE86UmA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="uckgwias-plhzeaylfe86uma"/></a><br><br>
 <a href="https://www.codechef.com/users/vrushang_123" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="vrushang_123"/></a>
 <a href="https://www.leetcode.com/vrushang_123" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="vrushang_123"/></a>
 <a href="https://www.hackerrank.com/vrushang_123" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="vrushang_123"/></a>
