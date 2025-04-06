@@ -32,6 +32,7 @@
 
 
 
+
 <div align="center">
 <table>
   <tr>
@@ -48,10 +49,10 @@
     <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
     <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
     <td><a href="https://snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a></td>
-    <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
-    <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
+    <td><a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c39d9b0e-b8dc-4c15-991a-f16c39472c47" alt="dbt" width="70" height="40"/></a></td>
+    <td><a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d5d2fade-5e00-417c-9fb6-15b0faf2e6cc" alt="airflow" width="70" height="40"/></a></td>
     <td><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="apache kafka" width="40" height="40"/></a></td> 
-    <td><a href="https://www.confluent.io/" target="_blank" rel="noreferrer"><img src="" alt="confluent cloud" width="80" height="40"/></a></td>
+    <td><a href="https://www.confluent.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/939033f3-268f-4655-ba80-cc39cd78a7fe" alt="confluent cloud" width="90" height="30"/></a></td>
   </tr>
   
   <tr>
@@ -96,7 +97,7 @@
 <div align="center">
   <h3>🏆 Github Profile Trophies 🏆</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=vrup0408&theme=catppuccin_latte&row=1&no-frame=true/">
+   <img src="https://github-profile-trophy.vercel.app/?username=vrup0408&theme=dark&row=1&no-frame=true/">
   </a>
 </div>
 
